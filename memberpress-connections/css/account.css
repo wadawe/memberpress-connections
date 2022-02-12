@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for the plugin components
+ *
+ * /memberpress-connections/css/account.css
+ * 
+ * Copyright (C) 2020 wadawe
+ */
+
+form.mpconns-button {
+    float: left;
+    margin: 10px 10px 0px 0px;
+    width: auto !important;
+}
+
+form.mpconns-button input:hover {
+    opacity: 0.8;
+}
+
+form.mpconns-feedback {
+    float: left;
+    margin: 10px 10px 0px 0px;
+    padding-top: 5px;
+}
